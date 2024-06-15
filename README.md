@@ -1,8 +1,10 @@
 # API de Pontuações
+---
 
 Esta é uma API simples para gerenciar pontuações de jogadores.
 
-## Endpoints Disponíveis
+### Endpoints Disponíveis
+---
 
 - `GET /pontuacoes`: Retorna todos os registros de pontuações.
 - `GET /pontuacoes/<id>`: Retorna um registro de pontuação específico pelo ID.
@@ -10,7 +12,8 @@ Esta é uma API simples para gerenciar pontuações de jogadores.
 - `PUT /pontuacoes/<id>`: Atualiza um registro de pontuação existente pelo ID.
 - `DELETE /pontuacoes/<id>`: Exclui um registro de pontuação pelo ID.
 
-## Estrutura do Registro de Pontuação
+### Estrutura do Registro de Pontuação
+---
 
 Cada registro de pontuação tem a seguinte estrutura:
 
